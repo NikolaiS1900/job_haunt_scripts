@@ -1,0 +1,54 @@
+https://jobdanmark.dk/v19552101/job87480/business-analysts-til-udvikling-af-fremtidens-digitale-og-datadrevne-toldomrade-3
+
+Brænder du for at arbejde i projekter, der gør en samfundsmæssig forskel? Vi har brug for, at endnu flere dygtige medarbejdere tager del i udviklingen af fremtidens digitale, kundeorienterede og datadrevne toldvæsen. Det er et af Danmarks største it-transformationsprogrammer, og vi arbejder agilt og med helt moderne teknologier.
+
+Vil du være en del af en organisation med høj faglighed, rig mulighed for udvikling og vekslende opgaver? Og har du lyst til at være en del af et attraktivt arbejdsmiljø, hvor du skal være med til at designe og implementere fremtidens digitale toldvæsen?
+
+Den nye EU-toldlovgivning medfører væsentlige ændringer både for erhvervslivet og i Toldstyrelsen i Danmark, herunder udskiftning af hovedparten af den samlede it-portefølje på toldområdet. Det vil have meget stor betydning for den danske import og eksport, for det indre marked, for danske virksomheder og for vores kolleger i Toldstyrelsen, som vi arbejder tæt sammen med. Du bliver tilknyttet toldprogrammet (EUTK) i Udviklings- og Forenklingsstyrelsen, som er et af de største it-transformationsprogrammer i Danmark.
+
+Bliv en del af kontoret EUTK Data og Analyse
+
+Du har mod på at være med i et stort udviklingsprogram, hvor vi arbejder efter agile metoder og lægger stor vægt på at løse opgaver i tværgående full stack teams. Vi benytter rammeværket SAFe, hvor udviklingen foregår i sprint baseret på agile principper. I kontoret er vi en blanding af kompetente profiler, som arbejder dedikeret med data- og løsningsarkitektur, analytics, udvikling og programmering, BI samt kvantitative og økonomiske ad hoc-analyser mv. til toldprogrammet. Du skal:
+
+Planlægge og gennemføre analyseaktiviteter, der understøtter de forretningsmæssige behov, og omsætter disse til realiserbare tekniske løsninger
+Udarbejde funktionelle løsningsdesigns
+Deltage i udviklingsaktiviteter og samarbejde med leverandører
+Analysere og koordinere konsekvenser af ændringer, nye forretningsbehov mv.
+Medvirke til implementering af fremtidens toldløsninger, i samarbejde med interessenter
+
+
+Om dig
+Du har sandsynligvis en it-orienteret uddannelse. Det vigtigste er dog, at du har interesse for at arbejde med it, data og forretning og kan omsætte strategiske og operationelle mål til konkrete løsninger og processer. Du er desuden god til at formulere dig skriftligt og mundtligt på både dansk og engelsk. Det er vigtigt, at du har interesse for at arbejde i et tværorganisatorisk miljø, hvor du har fokus på at omsætte opgaver til konkrete løsninger.
+
+Som person er du udviklingsorienteret, har et stort drive og finder det naturligt at arbejde i en omskiftelig hverdag, hvor du skal agere i krydsfeltet mellem it og forretning. Du arbejder struktureret og analytisk, og du trives med vekselvirkningen mellem selvstændigt arbejde og tværfagligt teamarbejde. Du er god til at samarbejde og har et stort drive, så du finder energien sammen med dine kolleger – også selvom opgaven kan være kompleks, og der er mange deadlines. Du kan hurtigt danne dig et overblik over din opgaveportefølje samtidig med, at du har øje for detaljen og tager ansvar for leverancen af opgaverne.
+
+Hvis du har kendskab til agile udviklingsmetoder, vil det være en fordel, men ikke et krav, for vi sikrer naturligvis en god introduktion.
+
+Toldprogrammet
+
+I Toldprogrammet er vi pt. ca. 220 medarbejdere, herunder både interne medarbejdere og eksterne konsulenter. Alene i 2020 har vi det første halve år rekrutteret og budt 80 nye kolleger velkommen, og vi forventer at byde yderligere ca. 50 nye kolleger i 2020. Vi tager godt imod vores nye kolleger. Dedikerede kræfter sikrer en god onboarding til både styrelsen, programmet, kontoret, det agile tog og teamet – og det virker! Det viser de mange positive tilbagemeldinger, vi har fået, om at starte i Toldprogrammet. Vi er glade og stolte på fællesskabets vegne over, at vi i hverdagens travlhed stadig er i stand til at tage imod, involvere os og hjælpe hinanden. Det gør vores program til et attraktivt sted at arbejde, og det skaber den kultur, som vi trives i.
+
+Vi har mange forskellige uddannelses- og erhvervsmæssige baggrunde, hvilket skaber et dynamisk og kreativt arbejdsmiljø, hvor vi vægter læring og arbejdsglæde meget højt. Stemningen er god mellem os, omgangstonen uformel og selvom vi har travlt, spiller vi hinanden gode. Som medarbejder i Toldprogrammet kan du bl.a. glæde dig til vores ”Social Crew”, der arrangerer løbeklub og fredagsbar m.m. Vi bor i moderne kontorfaciliteter på Frederiksberg lige ved Flintholm station og har gratis parkering i kælderen.
+
+Ansøgning og kontakt
+
+Vil du vide mere, er du velkommen til at kontakte kontorchef Tune Bergholt Hammer fra kontoret EUTK Data og Analyse på tlf. 72 38 90 85.
+
+Ansøgning med CV og relevante dokumenter sendes via nedenstående link senest den 10. januar 2020. Der indgår en logisk test og en personanalyse i ansættelsesforløbet, og vi holder samtaler løbende.
+
+Du bliver ansat på overenskomstvilkår i henhold til enhver tid gældende overenskomst for akademikere i staten (AC) eller overenskomst for Fuldmægtige m.fl. (DTS) i Skatteministeriet. Der vil forud for ansættelsen blive indhentet straffeattest og referencer.
+
+Ansættelsesområdet er Skatteministeriet med tilhørende institutioner, og dit arbejdssted vil være Osvald Helmuths Vej 4, 2000 Frederiksberg.
+
+Om Udviklings- og Forenklingsstyrelsen
+
+’I samarbejde med Skatteministeriets øvrige styrelser udvikler vi en fremtidsparat og sikker digital forvaltning’
+
+Udviklings- og Forenklingsstyrelsen har til opgave at forenkle og udvikle it-løsninger og forretningsprocesser. Samtidig har styrelsen ansvar for at sikre stabil drift og vedligeholdelse af skatteforvaltningens eksisterende it-systemer. Vores medarbejdere er fagligt kompetente og specialiserede og samtidig i stand til at arbejde tæt sammen med andre fagligheder på tværs af Skatteministeriet. Kun gennem et stærkt fagligt fællesskab på tværs af fagområderne kan vi lykkes med den omfangsrige og komplekse opgave, vi har.
+
+Vi søger løbende nye kolleger, som deler vores ambition om at sikre fundamentet for finansieringen af den offentlige sektor.
+
+Læs mere om Udviklings- og Forenklingsstyrelsen på www.ufst.dk
+
+Skatteministeriets koncern opfordrer alle kvalificerede ansøgere uanset alder, køn, religion eller etnisk tilhørsforhold til at søge stillingen.
+

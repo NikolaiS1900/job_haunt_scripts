@@ -1,0 +1,50 @@
+https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=145095&DepartmentId=9414&MediaId=5
+
+Business Analyst til sikring af drift og videreudvikling af inddrivelsessystemer
+Er du analytisk anlagt og skarp i at afdække- og kravstille komplekse forretningsbehov? Kan du navigere i spændingsfeltet mellem forretning, jura og IT? Vil du være med til at udvikle og drifte systemer til understøttelse af inddrivelsen af gæld til det offentlige? Så er det måske dig vi søger.
+
+Jobbene
+Som Business Analyst arbejder du i spændingsfeltet mellem forretning, jura og it og er med til at formidle forretningsmål og formulere kravspecifikationer til nye og eksisterende it-løsninger for skatteforvaltningen. Du indgår i et stærkt team af udviklere, testere og forretningseksperter, hvor du forventes at tage lead på at planlægge og gennemføre analyseaktiviteter, der understøtter de forretningsbehov, der lægger til grund for solide it-løsninger.
+
+Du indgår i et team med andre Business Analysts og tager del i at etablere nye digitale forretningsprocesser, og arbejder med at omsætte forretningsbehov til it-løsninger. En stor del af dit job er således at definere user stories og test cases, ved at sætte dig ind i forretningsmæssige krav og den it-tekniske løsning. Du vil indhente afklaringer og godkendelser på enkeltstående opgaver, men også varetage foranalyser samt planlægge og facilitere workshops og arbejdsmøder med en bred vifte af forskellige interessenter.
+
+Om dig
+Vi søger en analytisk og struktureret profil med et stort drive. Du skal kunne begå dig i spændingsfeltet mellem forretning, jura og IT, og besidde stærke kommunikative evner i skrift og tale. Det falder dig naturligt at være nysgerrig, og du trives i dialog med mange mennesker og med kravsætning af forretningsbehov. Du evner at holde det overordnede overblik samtidig med at du har et skarpt øje for detaljen. Har du erfaring med agile metoder, er det en fordel, men ikke et krav.
+
+Vi forestiller den ideelle kandidat som værende:
+
+• hurtig til at sætte dig ind i en ny og måske kompleks problemstilling og gribe en opgave struktureret an
+
+• proaktiv og selvstændig med evnen til at drive forskellige typer analyseaktiviteter
+
+• relations skabende med stærke samarbejdsevner på tværs af fagskel og kulturer
+
+• en udpræget teamplayer, som kan bidrage positivt til gruppen
+
+Din uddannelsesmæssige baggrund er ikke afgørende, men vi foretrækker, at du har minimum et par års erhvervserfaring fra lignende stillinger. Vi arbejder ud fra rammeværket SAFe, og i det daglige anvender vi Jira og Confluence. Det er derfor en fordel, at du har kendskab til de agile metoder, men vi hjælper dig i gang med relevant certificering og oplærer dig i værktøjerne. Du har evnen og viljen til at analysere en problemstilling i bund og lyst til at lære og prøve kræfter med nye opgaver. Vi forventer ikke, at du har kendskab til Skatteforvaltningen, men det er vigtigt, at du har mod på at sætte dig ind i komplekse problemstillinger, da det er udgangspunktet for at kunne analysere og belyse, hvad forretningens behov er i forhold til de fremtidige it-løsninger.
+
+Om din nye arbejdsplads
+Du bliver ansat i kontoret Inddrivelsessystemer, som består af 56 medarbejdere fordelt på 36 interne samt 20 eksterne. Kontoret er centralt i driften og videreudviklingen af det nye inddrivelsessystem, og vi ser nu ind i en tid, hvor der skal videreudvikles og optimeres. Vi arbejder tæt sammen i en programorganisation, som er sammensat af mange teams med kollegaer fra forskellige kontorer, samt eksterne konsulenter. Udviklings- og forenklingsstyrelsen arbejder aktivt med agile metoder, og med SAFe som det primære rammeværk. Der arbejdes med et kæmpestort drive og med høj motivation – fagligheden er i top.
+
+Ansøgning og kontakt
+Send dit CV og ansøgning senest 11. august via linket nedenfor ”Søg stillingen”. Har du spørgsmål inden da, er du velkommen til at kontakte kontorchef Adrian Stiles på tlf. 72 38 89 69 efter 1 august.
+
+Der kan blive gennemført test som led i ansættelsesprocessen. Der vil blive afholdt samtaler løbende fra d 2. august.
+
+Du bliver ansat på overenskomstvilkår i henhold til enhver tid gældende overenskomst for akademikere i staten, overenskomst for kontorfunktionærer, laboranter og It-medarbejdere (HK) eller overenskomst for Fuldmægtige m.fl. (DTS) i Skatteministeriet. Ansættelsesområdet er Skatteministeriet med tilhørende institutioner.
+
+Der vil forud for ansættelsen blive indhentet straffeattest. 
+
+Arbejdsstedet er Udviklings- og Forenklingsstyrelsens adresse på Osvald Helmuths Vej 4, 2000 Frederiksberg.
+
+Skatteministeriets koncern opfordrer alle kvalificerede ansøgere uanset alder, køn, religion eller etnisk tilhørsforhold til at søge stillingen.
+
+Om Udviklings- og Forenklingsstyrelsen  
+
+’I samarbejde med Skatteministeriets øvrige styrelser udvikler vi en fremtidsparat og sikker digital forvaltning’
+
+Udviklings- og Forenklingsstyrelsen har til opgave at forenkle og udvikle it-løsninger og forretningsprocesser. Samtidig har styrelsen ansvar for at sikre stabil drift og vedligeholdelse af Skatteforvaltningens eksisterende it-systemer. Vores medarbejdere er fagligt kompetente og specialiserede og samtidig i stand til at arbejde tæt sammen med andre fagligheder på tværs af Skatteministeriet. Kun gennem et stærkt fagligt fællesskab på tværs af fagområderne kan vi lykkes med den omfangsrige og komplekse opgave, vi har.
+
+Vi søger løbende nye kolleger, som deler vores ambition om at sikre fundamentet for finansieringen af den offentlige sektor.
+
+Læs mere om Udviklings- og Forenklingsstyrelsen på www.ufst.dk. 

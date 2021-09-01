@@ -1,0 +1,48 @@
+Business Analysts til udvikling og implementering af fremtidens digitale toldvæsen
+Brænder du for at arbejde i projekter, der gør en samfundsmæssig forskel? Er du specialist i at udarbejde og beskrive processer og dermed sikre implementering af it-løsninger, der styrker den forretningsmæssige indsats
+
+Den nye EU-toldlovgivning medfører væsentlige ændringer både for erhvervslivet og i Toldstyrelsen i Danmark, herunder udskiftning af hovedparten af den samlede it-portefølje på toldområdet. Det vil have meget stor betydning for den danske import og eksport, for det indre marked, for danske virksomheder og for vores kolleger i Toldstyrelsen, som vi arbejder tæt sammen med. Derfor søger vi Business Analysts til at løfte denne opgave.
+
+Bliv en del af Centret for Procesudvikling & Product Management EUTK
+Vores kontor består af en dynamisk tværfaglig gruppe på ca. 40 medarbejder med høj faglighed, i roller som Product Manager, Product Owner, UX’er og arkitekt. Der er højt til loftet, åben dialog, en god tone og respekt for hinandens faglighed og input. Du får en leder, der tror på tillidsbaseret ledelse og gensidig respekt, som mener, at uddelegering af ansvar og beslutningskompetence samt mulighed for faglig og personlig udvikling er forudsætninger for, at mennesker trives og udvikles. Du bliver samtidig en del af en organisation med rig mulighed for udvikling og vekslende opgaver i et attraktivt arbejdsmiljø.
+
+Om jobbet
+Du bliver tilknyttet toldprogrammet (EUTK) i Udviklings- og Forenklingsstyrelsen, som er et af de største it-transformationsprogrammer i Danmark. Vi er organiseret i teams og benytter rammeværket SAFe, hvor arbejdet foregår i iterationer, baseret på de agile principper. Vi arbejder efter agile metoder og lægger stor vægt på at løse opgaver sammen. Der er indkøbt et standardsystem, som vi tester og desuden udvikler nye løsninger til.
+
+Dine arbejdsopgaver består bl.a. i at:
+
+Beskrive forretningsmæssige og værdiskabende funktionelle løsninger i form af features og user stories, der understøtter programmets strategiske og operationelle mål
+Sikre afklaringer på problemstillinger med leverandøren, specialister eller andre interessenter
+Arbejde med procesmodellering og -analyse, så løsningen understøtter de forretningsmæssige workflows effektivt i samspil med programmets øvrige systemer, som bliver udviklet og indkøbt
+Tilrettelægge og afvikle analyseaktiviteter med henblik på at definere, dokumentere og prioritere udviklingsområder i de forretningsmæssige workflows, eks. workshops
+Skabe relationer og samarbejde med interessenter i Toldstyrelsen samt eksterne interessenter
+Dine opgaver kan have forskellig karakter, men alle med fokus på at sikre en optimal løsning for Toldstyrelsen og er præget af et tæt samarbejde med kolleger fra det øvrige toldprogram, Toldstyrelsen og en vores leverandør. Derfor er forretningsmæssig indsigt og forståelse en nødvendighed.
+
+Om dig 
+Som person er du løsningsorienteret, proaktiv og har et stort drive. Du finder det naturligt at arbejde i en omskiftelig hverdag, hvor du skal agere i krydsfeltet mellem it og forretning. Du er struktureret, selvstændig og ansvarsbevidst ligesom du er en teamplayer, der gerne deler gerne din viden, meninger og erfaringer med andre. 
+
+Derudover har du interesse for at arbejde i et tværfagligt og -organisatorisk miljø, hvor du har fokus på at omsætte opgaver til konkrete leverancer og du trives med at gøre det komplekse enkelt og forståeligt
+
+Du har erfaring med opgaver, der har involveret analyser og en god forståelse for it-systemer samt de opgaver, som dette medfører, fx facilitering af workshops, dokumentation af forretningsprocesser eller kravspecifikation af forretningsmæssige behov.
+
+Vi forventer desuden at:
+
+Du kan nedbryde processer til Userstories og løbe med afklaringer for at sikre den bedste løsning
+Du er god til at formulere dig skriftligt og mundtlig på både dansk og engelsk
+Du har gode kommunikative og pædagogiske evner
+Du har en relevant uddannelse fra universitet eller business school
+Kendskab til Jira, Confluence, agile udviklingsmetoder og roller vil være en fordel, men ikke et krav.
+
+Toldprogrammet
+I Toldprogrammet er vi pt. ca. 400 medarbejdere, herunder både interne medarbejdere, medarbejdere fra Toldstyrelsen og eksterne konsulenter. Vi har forskellige uddannelses- og erhvervsmæssige baggrunde, hvilket skaber et dynamisk og kreativt arbejdsmiljø, hvor vi vægter læring og arbejdsglæde meget højt. Stemningen er god imellem os, og vi har en let og uformel omgangstone. Vi bor i moderne kontorfaciliteter på Frederiksberg lige ved Flintholm station og har fri parkering i kælderen.
+
+Ansøgning og kontakt  
+Ansøgning med CV og eksamenspapirer bedes sendt via nedenstående link senest den 20. august 2021. Vi holder samtaler løbende. Der kan indgå en logisk test og en personanalyse i ansættelsesforløbet.
+
+Har du spørgsmål til stillingen, er du meget velkommen til at kontakte kontorchef Jonas Christensen på tlf. 72 38 93 19.
+
+Du bliver ansat på overenskomstvilkår i henhold til enhver tid gældende overenskomst for akademikere i staten (AC), overenskomst for kontorfunktionærer, laboranter og it-medarbejdere (HK) eller overenskomst for Fuldmægtige m.fl. (DTS) i Skatteministeriet. Der vil forud for ansættelsen blive indhentet straffeattest og referencer.
+
+Ansættelsesområdet er Skatteministeriet med tilhørende institutioner og dit arbejdssted vil være Osvald Helmuths Vej 4, 2000 Frederiksberg.  
+
+Skatteministeriets koncern opfordrer alle kvalificerede ansøgere uanset alder, køn, religion eller etnisk tilhørsforhold til at søge stillingen

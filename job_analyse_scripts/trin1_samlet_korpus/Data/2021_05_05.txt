@@ -1,0 +1,59 @@
+link https://www.jobfinder.dk/en/job/business-analyst-til-skat-erhvervsopkraevning-74866
+
+Har du lyst til at være med til at videreudvikle en af Danmarks største SAP installationer, Skattekontoen, som håndterer ca. 80% af den danske stats indtægter? Brænder du for at anvende dine analytiske evner til at skitsere løsningsforslag til sikring af optimal udnyttelse af systemets funktionalitet i dagligdagen såvel som i sammenhæng med nye projekter i Skatteforvaltningen? Så har vi brug for dig, til at eksekvere de fremtidige komplekse krav til Skattekontoen.
+
+Om jobbet
+Du bliver en del af kontoret Betalings- og Opkrævningssystemer, som administrerer og vedligeholder Skattekontoen. Alle virksomheder i Danmark har en Skattekonto, som er deres indgang til betalinger og opkrævninger, og samtidig giver dem et overblik over deres samlede mellemværende med SKAT. Brutto håndterer Skattekontoen ca. 1.500 mia. kr. om året. Det er samfundsmæssigt et yderst vigtigt system, og dermed et særdeles meningsfyldt arbejde vi i kontoret udfører.
+
+Som Business Analyst på Skattekontoen består dit arbejde i høj grad af at indgå i et tæt samarbejde med Skattestyrelsens procesejere og dine erfarne kolleger på kontoret i Udviklings- og Forenklingsstyrelsen. Din opgave er at opbygge en dyb forretningsforståelse for Skattekontoen og de tilsluttede kildesystemer, så du kan forstå og vurdere nye ønsker og anvise løsningsmuligheder. Du får mulighed for at rammesætte og drive egne opgaver i samarbejde med kontoret og vores interessenter.
+
+Dine opgaver er bl.a. at
+
+Opbygge dybt kendskab til Skattekontoens funktionalitet, både SAP delen og den ovenpå liggende grænseflade til virksomheder og interne SKAT brugere.
+Vurdere om nye tiltag, det kan være lovhøringer eller udviklingsønsker, kan implementeres på Skattekontoen, og i givet fald hvordan.
+Anvise og kvalitetssikre løsninger ud fra kendskab til Skattekontoen, så vi i videst muligt omfang udnytter systemets standardfunktionalitet, og derudover kun tilføjer egenudvikling.
+Indgå i dialog med Skattekontoens procesejere i Skattestyrelsen, systemejere, arkitekt i eget kontor og med vores eksterne leverandør for at skabe de bedste løsninger.
+Følge op på og samarbejde med leverandør om igangværende ændringsanmodninger, incidents, problems mm.
+Indgå i testforløb for ændringer i samarbejde med procesejere i forretningen, vores testmanager, testudførere, og leverandør.
+Du indgår i et team med højt engagerede kollegaer, der har stor erfaring med SAP-systemer og forretningsområdet. Derudover får du også et tæt samarbejde med Skattestyrelsen og vores eksterne IT-leverandør på Skattekontoen, samt en stor kontaktflade til øvrige systemområder og udviklingsprojekter med forbindelse til Skattekontoen.
+
+Hvem er du?
+Du er stærk til at kommunikere og samarbejde, har lyst til at forstå arbejdsprocesser fra et forretningsperspektiv, og forstår at udnytte de muligheder en given IT-løsning giver. Dine evner til at analysere, rådgive, facilitere og kommunikere i øjenhøjde skal være solide, så du kan forene mange interessenters synspunkter til en fælles løsning og skabe opbakning om beslutninger.
+
+Du har en videregående relevant uddannelse som f.eks. datalog eller ingeniør, og besidder en bred viden om teknologier samt deres anvendelse i systemer. Du har evnen til hurtigt at sætte dig i brugernes sted, og sammenkæde deres ønsker til den bedste udnyttelse af systemets muligheder. Det vil være en fordel, at du har erfaring med SAP systemporteføljen, men du kan også være nyuddannet med gåpåmod og lyst til at få indblik i, hvordan store standard systemer spiller sammen med forretningsønsker.
+
+Fremtidens Skatteforvaltning bygger på innovativ nytænkning, men også optimal udnyttelse af de store dele af porteføljen, som er fuldt ud up to date – derfor vil din evne til at tænke ud af boksen og dit drive til at få ting til at ske blive taget godt imod. Desuden vægter vi gode samarbejdsevner, så du kan omsætte behov til holdbare løsninger på tværs af forskellige interessenter og fagligheder. Du sætter pris på at have en hverdag, hvor du veksler mellem fordybelse på kontoret og at samarbejde med forretningen. Du ser det som en fordel at kunne være med til at sætte retning i en ung styrelse, og er ikke bleg for at sætte dit eget præg på leverancer.
+
+Alle nye projekter benytter agile udviklingsmetoder, så det vil være en fordel, men ikke en nødvendighed, at du har kendskab til det agile set-up, herunder også SAFe.
+
+Hvad tilbyder vi?
+Vi er 10 kollegaer i kontoret, som arbejder professionelt og kvalitetsbevidst med Skattekontoen. Vi har mange forskellige baggrunde, og meget forskellig anciennitet i SKAT, fra nyansatte til 40+ år, men alle med et meget højt fagligt niveau. Vi hjælper hinanden og arbejder hele tiden for at øge kvaliteten af alt hvad vi gør. Vi er præget af en flad struktur og lægger vægt på vidensdeling, læring og at vi har det sjovt og udfordrende, når vi arbejder.
+
+Du skal være forberedt på en stejl læringskurve, hvor vi vil sørge for et grundigt introduktions- og oplæringsforløb, og samtidig får du tilknyttet en makker, som vil hjælpe dig godt i gang også med de praktiske ting. Du får varierende og udfordrende arbejdsopgaver, samtidig med at der er gode muligheder for kompetenceudvikling.
+
+Ansøgning og kontakt
+Send din ansøgning, dit CV, eksamenspapirer og eventuelt yderligere materiale via linket ”ANSØG” senest den 26. maj 2021. Vi afholder samtaler løbende.
+
+Skriv venligst i din ansøgning, at du har set jobbet hos Jobfinder.
+
+Vil du høre mere om stillingerne, er du velkommen til at kontakte kontorchef Kim Olsen på
+tlf. 72 37 69 79. 
+
+Vi forventer at benytte personprofilanalyse og logisk test i rekrutteringsprocessen.
+
+​Du bliver ansat på overenskomstvilkår i henhold til enhver tid gældende overenskomst for akademikere i staten, overenskomst for kontorfunktionærer, laboranter og It-medarbejdere (HK) eller overenskomst for Fuldmægtige m.fl. (DTS) i Skatteministeriet. Ansættelsesområdet er Skatteministeriet med tilhørende institutioner.
+
+​Arbejdsstedet er Udviklings- og Forenklingsstyrelsens adresse på Osvald Helmuths Vej 4, 2000 Frederiksberg.
+
+Der vil forud for ansættelse blive indhentet straffeattest.
+
+Om Udviklings- og Forenklingsstyrelsen
+'I samarbejde med Skatteministeriets øvrige styrelser udvikler vi en fremtidsparat og sikker digital forvaltning’
+
+​Udviklings- og Forenklingsstyrelsen har til opgave at forenkle og udvikle it-løsninger og forretningsprocesser. Samtidig har styrelsen ansvar for at sikre stabil drift og vedligeholdelse af skatteforvaltningens eksisterende it-systemer. Vores medarbejdere er fagligt kompetente og specialiserede og samtidig i stand til at arbejde tæt sammen med andre fagligheder på tværs af Skatteministeriet. Kun gennem et stærkt fagligt fællesskab på tværs af fagområderne kan vi lykkes med den omfangsrige og komplekse opgave, vi har.
+
+​Vi søger løbende nye kolleger, som deler vores ambition om at sikre fundamentet for finansieringen af den offentlige sektor.
+
+​Læs mere om Udviklings- og Forenklingsstyrelsen på www.ufst.dk
+
+​Skatteministeriets koncern opfordrer alle kvalificerede ansøgere uanset alder, køn, religion eller etnisk tilhørsforhold til at søge stillingen.

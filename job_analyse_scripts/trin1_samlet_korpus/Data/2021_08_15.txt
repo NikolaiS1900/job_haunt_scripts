@@ -1,0 +1,48 @@
+https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&MediaId=5&DepartmentId=9414&ProjectId=145215
+
+Business Analyst i Ejendomsdataprogrammet
+Har du lyst til at være en del af et af Skatteforvaltningens spændende programmer på ejendomsområdet? Brænder du for at arbejde med forretningsanalyse og oversætte det til IT? Og vil du arbejde med ejendomsdata, den nyeste teknologi, høj hastighed og stor kompleksitet?
+
+Tag del i udviklingen af fremtidens ejendomsområde
+Der er store og spændende forandringer i disse år på tværs af det samlede ejendomsdataområde. Grunddataprogrammet er ved at være gennemført, og der implementeres en række ændringer af ejendomsbeskatningen.
+
+Du kommer som business analyst til at indgå i Programkontor for Ejendomsdata, som er i fuld gang med at koordinere og gennemføre en række initiativer, som skal sikre sammenhæng i data på tværs af ejendomsdataområdet. Kontoret har ansvaret for Skatteforvaltningens Ejendomsdataprogram, og arbejder med flere projektspor:
+
+Implementering af nye datastrukturer som følge af grunddataprogrammet, herunder den nødvendige tilpasning og test af en række eksisterende it-systemer i Skatteforvaltningen
+Sikre en hensigtsmæssig integration mellem Skatteforvaltningens it-systemer og den fælles offentlige datafordeler (DAF) herunder distribution af ejendomsdata i Skatteforvaltningen
+Opbygning af et ejendomsdatadomæne
+Udviklingsprojekterne er aktuelt i analysefase og forventes gennemført frem mod 2024.
+
+Kontoret yder også bistand til Udviklings- og Forenklingsstyrelsens direktion og koordinerer samarbejde med eksterne parter (andre styrelser, KL og leverandører) i forhold til de store datamæssige omlægninger og de nødvendige tilpasninger af vurderings- og beskatningssystemerne.
+
+Indgå i et dynamisk og tværfagligt miljø med højt til loftet og rig mulighed for at gøre en forskel 
+I Ejendomsdataprogrammet søger vi lige nu en stærk business analyst til at indgå i vores dynamiske og ambitiøse tværfaglige projektteams, som pt. består af dataspecialister, løsningsarkitekter, informationsarkitekter og projektledere. Vi arbejder på at sikre dataunderstøttelsen af grunddata og ejendomsdata i skatteforvaltningen.  
+
+Du kommer til at deltage i opgaveløsningen i et eller flere af projekterne. Disse opgaver kan have forskellig karakter men alle med fokus på at sikre en optimal dataunderstøttelse af ejendomsområdet. Derudover er dine primære arbejdsopgaver, at: 
+
+Planlægge og gennemføre analyseaktiviteter, der understøtter de forretnings- og it-mæssige valg, der foretages i projektet
+Udarbejde funktionelle løsningsdesigns i samarbejde med resten af teamet
+Deltage i evt. kravspecifikationer, udbudsprocesser og udvælgelse af it-leverandør
+Analysere og koordinere konsekvenser af ændringer i scope
+”Ejendomsdataprogrammet er præget af en uformel tone, højt humør og en høj faglighed”, siger din kommende kontorchef Tine Kapper og fortætter: ”Du får rig mulighed for at tage ansvar og påvirke din egen arbejdsdag”.
+
+Det samlede program har væsentlige snitflader til andre programmer og afdelinger i styrelsen, og det er derfor vigtigt, at du er god til at samarbejde på tværs, er innovativ og trives i et dynamisk miljø, hvor der er plads til at prøve nye ting af.
+
+Om dig
+Du er sandsynligvis i starten af din karriere og har en relevant kandidatuddannelse. Det vigtigste er, at du har interesse for at arbejde i en digital kontekst og med at omsætte strategiske og operationelle mål til konkrete løsninger og processer.
+
+Erfaring med skatteprocesser og ejendomsdata vil være en fordel, ligesom erfaring med systemudvikling og dokumentation, herunder analyser, proces- og begrebsmodellering fx med BPNM og kravspecifikationer/user stories, samt agile udviklingsmetoder vil være et plus.
+
+Som person er du analytisk, udviklingsorienteret, har et stort drive og finder det naturligt at arbejde i en omskiftelig hverdag og tage ansvar for opgaveløsningen. Du arbejder struktureret, trives med mange deadlines og kan hurtigt danne dig et overblik over din opgaveportefølje samtidig med, at du har øje for detaljen. Du er endvidere god til at formulere dig skriftligt og mundtligt.
+
+Programkontor for Ejendomsdata – din nye enhed  
+Programkontor for ejendomsdata ansatte den første medarbejder i efteråret 2019. Siden er vi vokset til ca. 17 medarbejdere. Hertil kommer, at er programmet bemandet bredt på tværs af hele organisationen. Vi har forskellige uddannelses- og erhvervsmæssige baggrunde, hvilket skaber et dynamisk og kreativt arbejdsmiljø, hvor vi vægter læring og arbejdsglæde meget højt.
+
+Ansøgning og kontakt
+Ansøgning med CV og eksamensbevis bedes sendt via linket ”Søg stillingen” senest den 15. august 2021. Spørgsmål besvares gerne af Tine Kapper på telefon 72 37 08 58. Der kan indgå en logisk test og en personanalyse i ansættelsesforløbet. Samtaler forventes afholdt i uge 33.
+
+Du bliver ansat på overenskomstvilkår i henhold til enhver tid gældende overenskomst for akademikere i staten, overenskomst for kontorfunktionærer, laboranter og It-medarbejdere (HK) eller overenskomst for Fuldmægtige m.fl. (DTS) i Skatteministeriet. Der vil forud for ansættelsen blive indhentet straffeattest.
+
+Du bliver ansat i Skatteministeriet med tilhørende institutioner. Dit arbejdssted bliver Nybrovej 110-116, 2800 Kgs. Lyngby.
+
+Skatteministeriets koncern opfordrer alle kvalificerede ansøgere uanset alder, køn, religion eller etnisk tilhørsforhold til at søge stillingen
